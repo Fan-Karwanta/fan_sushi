@@ -1,9 +1,7 @@
-# Build and Deploy a Responsive Website | Beginner HTML CSS Tutorial on How to Make a Website in 2023
+##Fan's Sushi
+# Deployed a Responsive Website using HTML, CSS and JavaScript
 
-## Introduction
-Are you wondering how to make a website using #HTML and #CSS? Join me today to create a modern, fully responsive HTML & CSS website with animations!
- 
-In this course, you will learn how to:
+In this project, I learned to:
 - Use CSS variables
 - Import CSS files into other CSS files
 - Use flex and position properties in CSS
