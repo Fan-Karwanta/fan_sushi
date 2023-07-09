@@ -1,4 +1,4 @@
-#Fan's Sushi
+# Fan's Sushi
 Deployed a Responsive Website using HTML, CSS and JavaScript
 
 In this project, I learned to:
