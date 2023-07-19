@@ -1,4 +1,7 @@
 # Fan's Sushi
+
+Simple Landing Page
+
 Deployed a Responsive Website using HTML, CSS and JavaScript
 
 Visit: https://fankarwanta.com
