@@ -1,4 +1,4 @@
-# Fan's Sushi
+# Fan's Sushi (Sushi Shop Landing Page)
 
 Simple Landing Page
 
