@@ -1,6 +1,6 @@
 # Fan's Sushi (Sushi Shop Landing Page)
 
-Simple Landing Page
+Simple, Aesthetic Landing Page
 
 Deployed a Responsive Website using HTML, CSS and JavaScript
 
