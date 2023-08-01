@@ -15,4 +15,4 @@ In this project, I learned to:
 - Maintain a well-organized file and folder structure
 -  Embrace the principles of writing clean code.
 
-You can clone this or fork this repository.
+You can clone this or fork this Repository. Just credit the owner.
