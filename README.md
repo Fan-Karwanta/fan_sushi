@@ -14,3 +14,5 @@ In this project, I learned to:
 - Use the BEM naming method
 - Maintain a well-organized file and folder structure
 -  Embrace the principles of writing clean code.
+
+you can clone this repo
