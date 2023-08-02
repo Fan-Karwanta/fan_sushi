@@ -16,3 +16,5 @@ In this project, I learned to:
 -  Embrace the principles of writing clean code.
 
 You can clone this or fork this Repository. Just credit the owner.
+
+All right reserved.
