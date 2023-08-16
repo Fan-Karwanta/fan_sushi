@@ -17,7 +17,7 @@ In this project, I learned to:
 
 You can clone this or fork this Repository. Just credit the rightful owner.
 
-PS: This is just s frontend website, it doesn't have backend functionalities yet.
+This is just s frontend website, it doesn't have backend functionalities yet.
 
 By Fan Karwanta.
 
