@@ -2,8 +2,6 @@
 
 Simple, Aesthetic Landing Page.
 
-Welcome.
-
 Deployed a Responsive Website using HTML, CSS and JavaScript
 
 PLEASE Visit: https://fankarwanta.com
@@ -20,6 +18,8 @@ In this project, I learned to:
 You can clone this or fork this Repository. Just credit the owner.
 
 PS: This is just s frontend website, it doesn't have backend functionalities yet.
+
+By Fan Karwanta.
 
 2023 All right reserved.
 
