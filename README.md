@@ -1,10 +1,10 @@
 # Fan's Sushi (Sushi Shop Landing Page)
 
+PLEASE Visit: https://fankarwanta.com
+
 Simple, Aesthetic Landing Page.
 
 Deployed a Responsive Website using HTML, CSS and JavaScript
-
-
 
 In this project, I learned to:
 - Use CSS variables
