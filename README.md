@@ -4,7 +4,7 @@ Simple, Aesthetic Landing Page.
 
 Deployed a Responsive Website using HTML, CSS and JavaScript
 
-PLEASE Visit: https://fankarwanta.com
+
 
 In this project, I learned to:
 - Use CSS variables
