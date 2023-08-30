@@ -1,6 +1,6 @@
 # Fan's Sushi (Sushi Shop Landing Page)
 
-PLEASE Visit: https://fankarwanta.com
+ Visit: https://fankarwanta.com
 
 Simple, Aesthetic Landing Page.
 
